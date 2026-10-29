@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cortex Applications, Inc. is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Cortex Applications, Inc. provides an Engineering Operations Platform that centralizes data from tooling, offers AI‑driven insights, scorecards, and golden‑path workflows to improve developer productivity, operational maturity, and reduce MTTR. The platform serves enterprises and startups, integrating with CI/CD, monitoring, and incident management tools to deliver a unified view of software delivery and AI‑augmented decision making.
+
+**Areas:** Company · Engineering · Platform · Artificial Intelligence · Developer Productivity
+
+## Cortex Applications, Inc. on APIs.io
+
+Everything profiled for Cortex Applications, Inc. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cortex-applications-inc/](https://apis.io/providers/cortex-applications-inc/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Cortex Applications, Inc. App API](https://apis.io/apis/cortex-applications-inc/cortex-applications-inc-app-api/) — The App API from Cortex Applications, Inc. — 2 operation(s) for app.
+- [Cortex Applications, Inc. Cities API](https://apis.io/apis/cortex-applications-inc/cortex-applications-inc-cities-api/) — The Cities API from Cortex Applications, Inc. — 1 operation(s) for cities.
+- [Cortex Applications, Inc. Meta API](https://apis.io/apis/cortex-applications-inc/cortex-applications-inc-meta-api/) — The Meta API from Cortex Applications, Inc. — 1 operation(s) for meta.
+- [Cortex Applications, Inc. Orgs API](https://apis.io/apis/cortex-applications-inc/cortex-applications-inc-orgs-api/) — The Orgs API from Cortex Applications, Inc. — 2 operation(s) for orgs.
+- [Cortex Applications, Inc. Repos API](https://apis.io/apis/cortex-applications-inc/cortex-applications-inc-repos-api/) — The Repos API from Cortex Applications, Inc. — 4 operation(s) for repos.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [GetReposOwnerRepoActionsVariablesNameResponse](https://apis.io/schemas/cortex-applications-inc/cortex-applications-inc-get-repos-owner-repo-actions-variables-name-response/)
+- [PatchReposOwnerRepoActionsVariablesNameRequest](https://apis.io/schemas/cortex-applications-inc/cortex-applications-inc-patch-repos-owner-repo-actions-variables-name-request/)
+- [PostReposOwnerRepoActionsVariablesRequest](https://apis.io/schemas/cortex-applications-inc/cortex-applications-inc-post-repos-owner-repo-actions-variables-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cortex Applications Inc Context](https://apis.io/jsonld/cortex-applications-inc/cortex-applications-inc-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cortex Applications, Inc. API Rules](https://apis.io/rules/cortex-applications-inc/cortex-applications-inc-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cortex Applications Inc Authentication](https://apis.io/security/cortex-applications-inc/cortex-applications-inc-authentication/)
+- [Cortex Applications Inc Domain Security](https://apis.io/security/cortex-applications-inc/cortex-applications-inc-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cortex.io)
+- [Documentation](https://docs.cortex.io/)
+- [Getting started](https://docs.cortex.io/guides/dev-onboarding/env-setup-workflow)
+- [API reference](https://docs.cortex.io/llms.txt)
+- [Pricing](https://www.cortex.io/pricing)
+- [Blog](https://www.cortex.io/blog)
+- [Terms of service](https://www.cortex.io/legal/terms-of-service)
+- [Privacy policy](https://www.cortex.io/legal/privacy-policy)
+- [GitHub](https://github.com/cortexapps)
+- [Status](https://status.cortex.io/)
+
+## API Evangelist rating
+
+**Kin Score 37.6** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 80.4 |
+| Contract quality | 21.4 |
+| Contract governance | 35.6 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 31.6 |
+
+**Agent readiness 15.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cortex-applications-inc/](https://apis.io/providers/cortex-applications-inc/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cortex Applications, Inc.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cortex-applications-inc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
